@@ -1,3 +1,11 @@
+/**
+ * 
+ * author: bhordupur
+ * date : September 2014
+ * Turku University
+ * /
+
+
 package Software_Testing_UTU;
 
 import org.openqa.selenium.By;
