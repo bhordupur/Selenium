@@ -1,2 +1,7 @@
-# This script is written to test some features on matkahuolto.fi
-# Selenium v2.40 is used to write the test script with Firefox latest version in September 2014
+This piece of code was written as a live demo in the class to show other students how to combine gherkin/cucumber with Selenium WebDriver at Turku University in SW Testing MSc. Students' class.
+
+Requirements to run this code:
+
+`Selenium Version 2.40.0`
+
+`Firefox Latest Version 29.01`
